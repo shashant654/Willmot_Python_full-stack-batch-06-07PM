@@ -1,0 +1,53 @@
+## what , where, who, when, why 
+
+5W things . 
+
+1. what is Python?
+=> Python is a high level interpreted Programming Language. 
+
+## THere are two types of Programming Language
+
+1. High Level Language :
+=> it is software oriented/related.
+=> it is used in Web devlopment, data science , game devlopment, app devlopment etc.
+EXAMPLE : Python, Java , c++ etc.
+
+2. Low Level Language :
+=> it is hardware oriented.
+=> it is used in Washing Machine, Induction, Keyboard, mouse , Joystick etc .
+
+EXAMPLE : C , Assembly Language, Machine Language etc.  
+
+Operating System : it builds relation or connection between hardware and software. 
+
+=> by using C Language we can build Operating system.
+
+Operating system is system software => that helps to run the computers.
+
+ 
+
+2. where , when, and who 
+## where Python was devloped?
+## who devloped?
+## when it was devloped?
+
+=> Guido Van Rossum devloped Python in February 1991.
+in Neitherland. 
+
+
+the task is we have to print Hello Wilmot.
+
+## why:
+1. it is easy to learn and use. 
+2. it is easy to read and understand.
+3. it is used in web devlopment, app devlopment,
+data science, Machine learning, etc.
+4. it is cross platform(Operating system). 
+=> when we build a website using Python language , then it can be opened in Windows as well as mac Operating sytem. 
+
+5. it has a large ecosystem.
+=> it has many frmaework or library ( Django, Flask, NumPy, Pandas etc.)
+
+
+
+print("PHP")

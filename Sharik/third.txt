@@ -1,0 +1,5 @@
+## What is FRONTEND and BACKEND?
+## what is DATABASE?
+
+1. what is Frontend?
+=> Parts of any website or software that deals with the user interface(UI) & user experience. 

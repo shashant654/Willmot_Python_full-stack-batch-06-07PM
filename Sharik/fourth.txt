@@ -1,0 +1,61 @@
+## what is Variable?
+=> it is just like a container , that store some values.
+It occupies some space in memory.
+EXAMPLE: a, b, my_variable etc.
+
+Water Bottle => just like container , it contains some quantity of water .
+
+
+, Maths 
+
+x = 10
+x = Variable and 10 is the value 
+
+## there are some rules to declare a Variable.
+
+1. Variable name can contain letters, numbers and underscore.
+Ex: a, name, a_b, name_1, name_2 etc.
+
+2. Variable name must starts with a letter or underscore.
+
+Ex:
+1_value = 17  => Wrong 
+Value_33 = 777  => right 
+_first_name = "SHarik" => rigte
+first_1_name = "WIlmot" => right 
+
+3. Variable name are case-sensitive.
+EX: 
+
+first_student_name  ="WIlmot"
+FIRST_student_name = "SHarik"
+print(FIRST_student_name)
+
+
+NOte: Python is a case sensitive language.
+Lower case (a,b,c,d.....) & Upper case (ABCDE........)
+
+4. Keywords are not allowed to declare a variable. 
+
+NOtes: Keywords are the words , that are predefined in Programming language. 
+
+there are 32 Keywords in Python language.
+EXAMPLE: print, if, else, and, or, while, for, break, continue etc. 
+
+5. Variable should have meaningful name for better readability.
+
+EXAMPLE: 
+s_name = "Wilmot"
+student_name = "Sharik"
+print(student_name)
+
+
+
+TASK : Explore what is Git and Github 
+=> what is the difference bwtween Git and Github .
+=> how to install git bash
+=> how to create credential on Github.
+
+
+
+print("PHP")

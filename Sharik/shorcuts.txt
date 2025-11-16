@@ -1,0 +1,18 @@
+1. ctrl + c => copy 
+2. ctrl + v => Paste
+3. ctrl z => Undo
+4. ctrl + y => Redo
+5. ctrl + A => Select all
+6. ctrl + F => search any word in a file
+7. ctrl + Enter = ENter in a new line 
+8. ctrl + X => delete one line of code 
+9. ctrl + Backspace => Delete one word directly 
+
+10. ctrl + L => select current line 
+
+11. Shift + Arrow (Up/Down/Right/Left) => select multiple lines of code  
+
+12. Alt + Arrow (Up/Down) => Move current line of code Up OR down 
+
+
+
