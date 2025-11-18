@@ -13,3 +13,5 @@ function myFunction() {
 }
 
 // this is concept of hoisting in JavaScript.
+
+console.log("hii");
