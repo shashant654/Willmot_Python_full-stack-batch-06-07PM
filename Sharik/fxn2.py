@@ -100,13 +100,13 @@
 # print("The sum of a and b is : ", a + b)  ## 30
 
 
+## positional argument 
+
+def add_two_numbers(a,b):
+    print("The sum of a and b is : ", a + b)
 
 
-# def add_two_numbers(a,b):
-#     print("The sum of a and b is : ", a + b)
-
-
-# add_two_numbers(10,20)  ## 30
+add_two_numbers(10,20)  ## 30
 # print("Hii, wilmot here, how are you?")
 
 # add_two_numbers(100,200)  ## 300

@@ -1,0 +1,7 @@
+print("Vikram")
+print("SHivam")
+print("Tridev")
+pri("Rudra")
+print("SUshil")
+print("VIkcy")
+print("Prem")
