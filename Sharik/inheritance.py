@@ -1,18 +1,20 @@
 # Inheritence : - 
 
 
-# class Father:
-#                     father_1st_property = "Taj Hotel"
+class Father:
+                    father_1st_property = "Taj Hotel"
 
-#                     def father_assets(self):
-#                          print("Bhardwaj aprament")
-#                          print("Willing Restaurant")
+                    def father_assets(self):
+                         print("Bhardwaj aprament")
+                         print("Willing Restaurant")
 
 
-# father_obj =  Father() 
+father_obj =  Father() 
 
-# print(father_obj.father_1st_property)
-# father_obj.father_assets()
+print(father_obj.father_1st_property)
+
+
+father_obj.father_assets()
 
 
 
@@ -72,39 +74,39 @@
 
 # multiple Inheritence : -
 
-=> in this case, a child can inherit more than one parent class.
+# => in this case, a child can inherit more than one parent class.
 
-class GrandFather:
-             grandfather_1st_property = "Grand HOtel"
+# class GrandFather:
+#              grandfather_1st_property = "Grand HOtel"
 
-             def grandfather_assets(self):
-                    print("deliscious dishes")
-                    print("APna Restaurant")
-
-
-class Father:
-                    father_1st_property = "Taj Hotel"
-
-                    def father_assets(self):
-                         print("Bhardwaj aprament")
-                         print("Willing Restaurant")
-
-class Son(GrandFather, Father):
-                    son_1st_property = "minee restaurant"
-
-son_obj = Son()
-
-print(son_obj.grandfather_1st_property)
-print(son_obj.father_1st_property)
-print(son_obj.son_1st_property)
-son_obj.grandfather_assets()
-son_obj.father_assets()
+#              def grandfather_assets(self):
+#                     print("deliscious dishes")
+#                     print("APna Restaurant")
 
 
-Water 
-american acent
+# class Father:
+#                     father_1st_property = "Taj Hotel"
+
+#                     def father_assets(self):
+#                          print("Bhardwaj aprament")
+#                          print("Willing Restaurant")
+
+# class Son(GrandFather, Father):
+#                     son_1st_property = "minee restaurant"
+
+# son_obj = Son()
+
+# print(son_obj.grandfather_1st_property)
+# print(son_obj.father_1st_property)
+# print(son_obj.son_1st_property)
+# son_obj.grandfather_assets()
+# son_obj.father_assets()
 
 
-Liberia  
+# Water 
+# american acent
+
+
+# Liberia  
 
 
